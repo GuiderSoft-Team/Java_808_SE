@@ -6,7 +6,7 @@ class X {
     public void printfilecontent()
     {
         //codes goes here
-        throw new IOException();
+        //throw new IOException();
     }
 
 }
