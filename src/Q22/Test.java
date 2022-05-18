@@ -1,5 +1,6 @@
 package Q22;
 
+/*
 public class Test {
     public static void main(String[] args) {
         int ans;
@@ -15,6 +16,7 @@ public class Test {
         System.out.println("Answer = "+ans); //line n2
     }
 }
+*/
 
 /*
 What is the result?

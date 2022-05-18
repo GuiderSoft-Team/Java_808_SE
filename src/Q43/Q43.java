@@ -2,7 +2,7 @@ package Q43;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-
+/*
 public class Q43 {
 
     // 43. Given the code fragment:
@@ -11,10 +11,10 @@ public class Q43 {
         String[] arr=("Hi","How","Are","You");
         List<String> arrList =new ArrayList<>(Arrays.asList(arr));
         if(arrList.removeIf(String s)) ->(return s.length()<=2;))){
-            System.out.println(s+"removed")'
+            System.out.println(s+"removed");
         }
     }
-}
+}*/
 
   /*  What is the result?
         A. Compilation fails.
