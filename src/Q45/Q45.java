@@ -2,7 +2,7 @@ package Q45;
 
     //45. Given the code fragment:
 
-    abstract class Planet{
+   /* abstract class Planet{
         protected void revolve(){          //line n1
         }
 
@@ -14,7 +14,7 @@ package Q45;
         protected void rotate(){            //line n4
 
         }
-    }
+    }*/
 
  /*       Which two modifications, made independently, enable the code to compile? (Choose two.)
 

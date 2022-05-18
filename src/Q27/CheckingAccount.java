@@ -6,10 +6,10 @@ public class CheckingAccount {
 }
 //And given this main method, located in another class:
 
-public static void main(String[] args) {
+/*public static void main(String[] args) {
 CheckingAccount acct=new CheckingAccount();
 //line n2
-}
+}*/
 /*
 Which three pieces of code, when inserted independently, set the value of amount to 100?
   A

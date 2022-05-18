@@ -1,6 +1,6 @@
 package Q23;
 
-public class Test {
+/*public class Test {
     public static void main(String[] args) {
         char colorCode='y';
         switch (colorCode){
@@ -18,7 +18,7 @@ public class Test {
        System.out.println(color);
     }
 
-}
+}*/
 
 /*
 What is the result?

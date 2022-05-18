@@ -1,6 +1,6 @@
 package Q21;
 
- class Vehicle {
+/* class Vehicle {
 
     Vehicle(){
         System.out.println("Vehicle;");
@@ -16,7 +16,7 @@ package Q21;
     public static void main(String[] args) {
         Vehicle v=new Bus();
     }
-}
+}*/
 
 
 /*
