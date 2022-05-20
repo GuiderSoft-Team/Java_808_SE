@@ -18,8 +18,7 @@ public class TestCall {
     }
 }
 
- */
-/*
+
 What is the result?
 
         A.	Compilation fails at line n1.
