@@ -6,6 +6,7 @@ import Q100.p1.Acc;
     public static void main(String[] args) {
         Acc obj=new Test();
 
+
     }
 }*/
 /*Which statement is true?

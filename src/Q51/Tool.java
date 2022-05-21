@@ -1,30 +1,38 @@
 package Q51;
-/*
-class Tool implements Exportable{
-    protected void export(){            //line n1
+
+/* class Tool  implements Exportable{
+
+     protected void export(){            //line n1
         System.out.println("Tool::export");
     }
-}
+ }
 
-class  ReportTool extends Tool implements Exportable{
+class  ReportTool extends Tool   {
 
-    public void export(){           //line n2
+     public void export() {           //line n2
         System.out.println("Rtool::export");
     }
 
+
+
     public static void main(String[] args) {
-        Tool aTool = new ReportTool();
-        Tool bTool = new Tool();
+      ReportTool aTool = new ReportTool();
+        System.out.println();
+      Tool bTool = new Tool();
+
+
+
         callExport(aTool);
-        callExport(bTool);
+       callExport(bTool);
 
     }
 
-    public static void callExport (Exportable ex){
+    public static void callExport(Exportable ex) {
         ex.export();
     }
+}*/
 
-
+/*
     What is the result?
     A. Compilation fails only at line n2.
     B. RTool::exportTool::export
@@ -32,7 +40,6 @@ class  ReportTool extends Tool implements Exportable{
     D. Compilation fails only at line n1.
     E. Compilation fails at both line n1 and line n2.
             Kitap: E
-            Video: D
+            Video: D*/
 
-}
- */
+//}

@@ -10,6 +10,6 @@ public class Vehicle {
         this.maxSpeed = maxSpeed;
     }
 
-    public Vehicle() {
+   public Vehicle() {
     }
 }
