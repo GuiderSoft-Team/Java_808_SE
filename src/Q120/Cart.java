@@ -1,6 +1,6 @@
 package Q120;
 
-public class Cart {
+/*public class Cart {
     Product p;
     double totalAmount;
 }
@@ -15,7 +15,7 @@ public class Shop{
         Cart c=new Cart();
         System.out.println(c.p+":"+c.totalAmount);
     }
-}
+}*/
 /*What is the result?
 A. null:null:0.0
 B. null:null
