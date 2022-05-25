@@ -10,11 +10,6 @@ public class Test {
         System.out.println(date);
     }
 }
-
-
-
-
-
 /*
 what is the result?
 a. May 04,2014T00:00:00.000
