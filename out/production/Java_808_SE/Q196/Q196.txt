@@ -1,0 +1,17 @@
+
+
+
+Arraylist<Cycle>myList=new Arraylist<>();
+myList.add(new Motorcycle());
+
+
+
+
+Which two statements, if either were true, would make the code compile? (Choose two.)
+A. MotorCycle is an interface that implements the Cycle class.
+B. Cycle is an interface that is implemented by the MotorCycle class.
+Lead to pass your exam quickly and easily. First Test, First Pass! - visit - http://www.certleader.com
+C. Cycle is an abstract superclass of MotorCycle.
+D. Cycle and MotorCycle both extend the Transportation superclass.
+E. Cycle and MotorCycle both implement the Transportation interface.
+F. MotorCycle is a superclass of Cycle.
