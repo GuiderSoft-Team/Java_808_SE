@@ -1,5 +1,6 @@
 package Q13;
 
+/*
 class ozet {
     int x;
 
@@ -32,4 +33,4 @@ class ozet {
             ozet y = new Car(30);
             System.out.println(y);
         }
-    }
+    }*/

@@ -1,8 +1,8 @@
 package Q13;
 
-public class Car extends Vehicle{
+//public class Car extends Vehicle{
 
-    int y;
+   /* int y;
 
     Car(){
         super(10); // line n2
@@ -17,3 +17,4 @@ public class Car extends Vehicle{
         return super.x+":"+this.y;
     }
 }
+*/
