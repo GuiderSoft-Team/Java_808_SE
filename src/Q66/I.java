@@ -2,6 +2,8 @@ package Q66;
 
 interface I {
     public void displayI();
+
+
 }
     abstract class C2 implements I {
         public void displayC2() {

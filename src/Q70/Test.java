@@ -12,6 +12,8 @@ public class Test {
         } else {
             z = x++;
         }
+        System.out.println(x);
+        System.out.println(y);
         System.out.println(z);
     }
 }

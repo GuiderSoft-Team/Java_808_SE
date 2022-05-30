@@ -1,8 +1,8 @@
 package Q51;
 
-/* class Tool  implements Exportable{
+class Tool  implements Exportable{
 
-     protected void export(){            //line n1
+   public void export(){            //line n1
         System.out.println("Tool::export");
     }
  }
@@ -30,7 +30,7 @@ class  ReportTool extends Tool   {
     public static void callExport(Exportable ex) {
         ex.export();
     }
-}*/
+}
 
 /*
     What is the result?

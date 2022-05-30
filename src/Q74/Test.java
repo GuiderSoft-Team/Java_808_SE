@@ -1,7 +1,10 @@
 package Q74;
 
-/*public class Test {
-    void readCard(int cardNo)throws Exception{
+import java.io.IOException;
+
+/*
+public class Test {
+    void readCard(int cardNo)throws Exception {
         System.out.println("Reading Card");
     }
     void checkCard(int cardNo)throws RuntimeException{// line n1
@@ -15,7 +18,8 @@ package Q74;
         ex.checkCard(cardNo);// line n3
 
     }
-}*/
+}
+*/
 
 /*
 A Reading Card
