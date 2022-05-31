@@ -7,6 +7,7 @@ public class Test {
         System.out.println(planets.length);
         System.out.println(planets[1].length());
 
+
         /*
     What is the output?
     A. 44

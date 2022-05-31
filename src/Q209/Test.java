@@ -1,9 +1,9 @@
 package Q209;
 //Explanation:
-public class Test {
-    /*File IO Status
+/*public class Test {
+    *//*File IO Status
     allio completed
-    .*/
+    .*//*
 
     public void initialize(int x, int y){
         this.x = x * x;
@@ -16,7 +16,7 @@ public class Test {
     System.out.print(x + " " + y);
     
     }
-}    
+}    */
 /*
 Given:
 

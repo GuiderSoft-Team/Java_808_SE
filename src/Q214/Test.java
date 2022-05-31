@@ -1,5 +1,5 @@
 package Q214;
-public class Test {
+/*public class Test {
     public static final int MIN = 1;
     public static void main(String[] args) {
         int x = args.length;
@@ -12,7 +12,7 @@ public class Test {
             return (x >= MIN) ? true : false;
         }
     }
-}
+}*/
 /*
 And given the commands:
 

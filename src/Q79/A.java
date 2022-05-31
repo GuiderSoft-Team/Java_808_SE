@@ -1,10 +1,11 @@
 package Q79;
 
-/*
+
 class C{
     public C(){
         System.out.print("C ");
     }
+
 }
 class B extends C {
     public B(){                         //line n1
@@ -21,7 +22,7 @@ class A extends B {
 
     }
 }
-*/
+
 
 /*
 What is the result?
