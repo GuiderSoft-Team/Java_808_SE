@@ -1,9 +1,12 @@
 package Q119;
 
+/*
+
 public class App {
-    String greet = "Welcome!";
+ String greet = "Welcome!";
     public App(){
         String greet = "Hello!";
+
 
     }
     public void setGreet(){
@@ -16,6 +19,8 @@ public class App {
         System.out.println(t.greet);
     }
 }
+*/
+
 
 /*What is the result?
 A. Good Luck!

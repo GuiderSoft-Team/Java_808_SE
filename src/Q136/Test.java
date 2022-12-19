@@ -4,6 +4,7 @@ package Q136;
 import java.util.ArrayList;
 import java.util.List;
 
+/*
 public class Test {
     public static void main(String[] args) {
         List <String> arraylist=new ArrayList<>();
@@ -18,3 +19,4 @@ public class Test {
 
     }
 }
+*/

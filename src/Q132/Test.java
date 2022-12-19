@@ -1,5 +1,6 @@
 package Q132;
 
+/*
 public class Test {
     public static void main(String[] args) {
         int [][]arr=new int[2][4];
@@ -17,3 +18,4 @@ public class Test {
     }
     //cevap 1 3 5 7  1 3
 }
+*/

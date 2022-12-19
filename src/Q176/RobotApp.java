@@ -1,6 +1,6 @@
 package Q176;
 
-/*abstract class Robot implements Speakable {
+abstract class Robot implements Speakable {
     public abstract void process();
 
 
@@ -24,7 +24,7 @@ public class RobotApp {
         r.process();
         r.speak("Done");
     }
-}*/
+}
 /*Which action enables the code to print Helping… Done?
 A. replace class Humanoid extends Robot {
 with abstract class Humanoid extends Robot {

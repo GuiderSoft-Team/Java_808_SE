@@ -1,25 +1,34 @@
 package Q202;
 
-/*
+
 public class Employee {
-    public int salary;
+    public int salary=5;
+
+
+    public static void main(String[] args) {
+        Employee employee=new Employee();
+        Employee manager=new Manager();
+       Manager director=new Director();
+        //line n1
+
+
+
+    }
 }
-public class Manager extends Employee{
+ class Manager extends Employee{
     public int budget;
+
 }
-public class Director extends Manager{
+ class Director extends Manager{
     public int stockOptions;
+    public int salary=10;
+
 }
    // And given this main method:
 
-   public static void main(String[] args) {
-       Employee employee=new Employee();
-       Employee manager=new Manager();
-       Employee director=new Director();
-       //line n1
-   }
 
-    Which two options compile when placed at line n1 of the main method? (Choose two.)
+
+  /*  Which two options compile when placed at line n1 of the main method? (Choose two.)
 
         A.	director.stockOptions = 1_000;
         B.	employee.salary = 50_000;

@@ -1,6 +1,7 @@
 package Q214;
 /*public class Test {
-    public static final int MIN = 1;
+    public static final int MIN=1;
+
     public static void main(String[] args) {
         int x = args.length;
         if(checkLimit (x)){  // line n1
@@ -8,9 +9,10 @@ package Q214;
         } else {
             System.out.println("Java SE");
         }
-        public static boolean checkLimit (int x) {
-            return (x >= MIN) ? true : false;
-        }
+
+    }
+    public static boolean checkLimit (int x) {
+        return (x >= MIN) ? true : false;
     }
 }*/
 /*

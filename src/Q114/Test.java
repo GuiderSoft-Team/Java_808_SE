@@ -1,6 +1,6 @@
 package Q114;
 
-public class Test {
+/*public class Test {
     public static void main(String[] args) {
 
         String [][] arr={{"A","B","C"},{"D","E"}};
@@ -13,11 +13,11 @@ public class Test {
                 }
 
             }
-            continue;
+
         }
 
     }
-}
+}*/
 
 /*What is the result?
 A. A B C

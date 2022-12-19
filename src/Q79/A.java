@@ -1,7 +1,7 @@
 package Q79;
 
 
-class C{
+/*class C{
     public C(){
         System.out.print("C ");
     }
@@ -21,7 +21,7 @@ class A extends B {
         A a=new A();
 
     }
-}
+}*/
 
 
 /*

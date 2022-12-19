@@ -1,5 +1,5 @@
 package Q12;
-
+/*
 public class SumTest {
 
     public static void doSum(Integer x,Integer y){
@@ -22,7 +22,7 @@ public class SumTest {
 
         doSum(10,20);
         doSum(10.0,20.0);
-    }
+    }*/
 
     /*
          What is the result?
@@ -43,4 +43,4 @@ public class SumTest {
      */
 
 
-}
+//}

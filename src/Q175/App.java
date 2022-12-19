@@ -1,8 +1,9 @@
 package Q175;
 
 /*public class App {
-     int foo;
+      int foo;
     static int bar;
+
 
     static void process(){
         foo+=10;
@@ -12,11 +13,12 @@ package Q175;
     public static void main(String[] args) {
         App firstObj=new App();
         App.process();
-        System.out.println(firstObj.bar);
+        System.out.println(firstObj.bar); //10
 
         App secondObj=new App();
         App.process();
-        System.out.println(secondObj.bar);
+        System.out.println(secondObj.bar); //20
+
     }
 }*/
 /* What is the result?

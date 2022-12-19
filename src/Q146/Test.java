@@ -1,13 +1,14 @@
 package Q146;
 
-public class Test {
+/*public class Test {
     public static void main(String[] args) {
 
         //146. Given the code fragment:
         String[]strs=new String[2];
+
         int idx=0;
         for (String s:strs){
-            strs[idx].concat("element"+idx);
+          strs[idx].concat("element"+idx);
             idx++;
         }
         for (idx=0; idx <strs.length ; idx++) {
@@ -16,7 +17,7 @@ public class Test {
         }
 
     }
-}
+}*/
 /*
 
     What is the result?

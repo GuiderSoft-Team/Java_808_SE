@@ -4,8 +4,10 @@ public class OraString {
 
     String s;
     public boolean equals(OraString str){
-        return this.s.equalsIgnoreCase(str.toString());
+        return this.s.equals(str.toString());
     }
+
+
     OraString(String s) {
         this.s=s;
     }

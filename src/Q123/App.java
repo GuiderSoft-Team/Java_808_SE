@@ -1,6 +1,7 @@
 package Q123;
 
-public class App {
+
+/*public class App {
     String myStr="9009";
 
     public void doStuff(String str){
@@ -8,6 +9,7 @@ public class App {
         try {
             String myStr=str;
             myNum=Integer.parseInt(myStr);
+
         }catch (NumberFormatException ne){
             System.out.println("Error");
         }
@@ -18,7 +20,7 @@ public class App {
         App obj = new App();
         obj.doStuff("7007");
     }
-}
+}*/
 
 /*What is the result?
 A. myStr: 7007, myNum: 7007

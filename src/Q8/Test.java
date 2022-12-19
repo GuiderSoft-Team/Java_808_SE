@@ -1,4 +1,4 @@
-package Q8;
+/*package Q8;
 
 public class Test {
     public static void main(String[] args) {
@@ -12,14 +12,15 @@ public class Test {
 
                 if(arr[i][j].equals("B"))
                 {
-                    continue;
+                    break;
                 }
+
             }
-            continue;
+            break;
         }
 
 
         //cevap, A B C D E
 
     }
-}
+}*/

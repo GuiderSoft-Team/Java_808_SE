@@ -2,9 +2,14 @@ package Q170;
 
 public class Test {
     public static void main(String[] args) {
-        Employee employee = new Employee();
+        Employee employee =  new Employee();
+        System.out.println();
         Manager manager = new Manager();
+        System.out.println();
         Director director = new Director();
+
+
+
         //line 1
 
         /*

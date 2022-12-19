@@ -1,8 +1,15 @@
 package Q189;
 
-/*public class Test {
+/*public  class Test {
     public static int stVar = 100;
     public int var = 200;
+
+    protected Test(int var) {
+        this.var = var;
+    }
+
+    Test() {
+    }
 
     public String toString() {
         return stVar + ":" + var;
@@ -18,6 +25,7 @@ package Q189;
         System.out.println(t2);
     }
 }*/
+
 /* What is the result?
                 A. 300:300200:300
                 B. 300:100200:300

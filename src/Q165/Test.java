@@ -3,8 +3,9 @@ package Q165;
 public class Test {
     public static void main(String[] args) {
 
-        String s1 = "Moon";
+       /* String s1 = "Moon";
         OraString s2 = new OraString("Moon");
+        OraString s3 = new OraString("Moon");
 
         if ((s1 == "Moon") && (s2.equals("Moon"))){
             System.out.println("A");
@@ -15,7 +16,7 @@ public class Test {
             System.out.println("C");
         }else {
             System.out.println("D");
-        }
+        }*/
 
         /*
         What is the result?

@@ -1,10 +1,8 @@
 package Q216;
 
-public class Test {
-    
-}
+
 /*
-class Product {
+class Product extends Test {
     double price;
 }
 public class Test {
@@ -17,12 +15,15 @@ public class Test {
         prt.price = 200;
         double newsPrice = 100;
 
-        Test t = new Test ();
-        t.updatePrice(prt, newPrice);
-        System.out.println(prt.price + " : " + newPrice);
-    }
-}
 
+
+
+        Test t = new Test ();
+        t.updatePrice(prt, newsPrice);
+        System.out.println(prt.price + " : " + newsPrice); //       100
+    }
+}*/
+/*
 What is the result?
 A. 200.0 : 100.0
 B. 400.0 : 200.0

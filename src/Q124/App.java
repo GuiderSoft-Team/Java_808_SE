@@ -1,5 +1,6 @@
 package Q124;
 
+/*
 public class App {
     String myStr="7007";
 
@@ -15,10 +16,11 @@ public class App {
     }
 
     public static void main(String[] args) {
-        Q123.App obj = new Q123.App();
+        App obj = new App();
         obj.doStuff("7007");
     }
 }
+*/
 
 /*
     What is the result?

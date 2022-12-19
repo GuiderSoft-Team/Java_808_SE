@@ -1,5 +1,7 @@
 package Q116;
 
+/*
+
 public class A {
     public  void test(){
         System.out.println("A");
@@ -29,6 +31,8 @@ class C extends B{
         b3.test();
     }
 }
+*/
+
 
 /*What is the result?
 A. AB
